@@ -13,9 +13,9 @@ As most of our group members are fairly new to Python and machine learning, we a
 
 <u><b>Future Objectives</b></u>
 
-•	Practise using other machine learning techniques on the MNIST data
+•	Practice using other machine learning techniques on the MNIST data
 
-•	Download other datasets from http://deeplearning.net/datasets/ to practise on
+•	Download other datasets from http://deeplearning.net/datasets/ to practice on
 
 •	Pre-process the Kaggle Lung Cancer data
 
